@@ -18,4 +18,6 @@ P&L to connect the surface to practical market-making mechanics.
 
 ## Status
 Week 1 complete: BSM implementation + implied vol solver
+
+
 Week 2 in progress: Volatility Surface Construction — Spline Interpolation and SVI Parameterization
