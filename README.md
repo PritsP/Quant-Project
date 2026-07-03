@@ -17,4 +17,5 @@ P&L to connect the surface to practical market-making mechanics.
 - `/tests` — sanity checks on pricing functions
 
 ## Status
-Week 1 in progress: BSM implementation + implied vol solver
+Week 1 complete: BSM implementation + implied vol solver
+Week 2 in progress: Volatility Surface Construction — Spline Interpolation and SVI Parameterization
