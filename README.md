@@ -14,7 +14,7 @@ Project 1 builds the complete analytical toolkit of an options market maker usin
 - `/notebooks` — analysis and visualization notebooks
 - `/tests` — sanity checks on pricing functions
 
-##Readings
+## Readings
 - Hull "Options, Futures and Other Derivatives" Chapter 15 (Black-Scholes-Merton) and Chapter 19 (Greeks)
 - Black & Scholes (1973) original paper
 - Gatheral (2004) "A Parsimonious Arbitrage-Free Implied Volatility Parameterization" sections 1-3
